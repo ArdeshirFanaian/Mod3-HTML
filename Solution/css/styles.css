@@ -1,0 +1,10 @@
+.col-xs-12 {
+	background-color: #C0C0C0;
+}
+.navbar-right {
+	background-color: silver;
+}
+ #bs-example-navbar-collapse-1 a {
+ 	color: black;
+ 	border: solid white;
+ }
